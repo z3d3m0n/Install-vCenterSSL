@@ -27,9 +27,9 @@ function Show-Failure {
 
 # --- Edit Variables Below ---
     
-$vCenterURL = "vc.vmware.io"
-$CommonName = "vc.vmware.io"
-$EmailContact = "email@vmware.io"
+$vCenterURL = "70.dooxcloud.com"
+$CommonName = "70.dooxcloud.com"
+$EmailContact = "oleinikov@gmail.com"
 $Credential = Get-Credential
     
 # --- Do Not Edit Below This Point ---
